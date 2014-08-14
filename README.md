@@ -6,4 +6,4 @@ word2vec_new
  
  ./distance_new soc15_tri.bin raw_soc15_tri.txt > vec_soc15_tri.tri
  
- Already compiled and ready to use.
+ Already compiled and ready to use in cent OS.
